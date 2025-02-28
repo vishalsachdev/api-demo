@@ -2,6 +2,10 @@
 
 This repository contains a simple web application that demonstrates API integration and usage. The project includes a stock price API demo that allows users to fetch and display stock price information.
 
+## Live Demo
+
+Check out the live demo at: https://vishalsachdev.github.io/api-demo/
+
 ## Features
 
 - Real-time stock price data retrieval
